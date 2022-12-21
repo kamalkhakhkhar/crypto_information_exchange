@@ -11,6 +11,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+If Your Port 3000 is already occupied it will ask for next port just click YES.
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
@@ -68,3 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### We Used Chakra UI For Our Web Application 
+
+Chakra UI will let the creater create code with easy manner and have commands all like the familior . Chakra UI will let all the commands as object name like box..... etc
+
